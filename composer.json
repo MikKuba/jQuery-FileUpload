@@ -1,5 +1,5 @@
 {
-	"name": "ijvo/jquery-fileupload",
+	"name": "jzechy/jquery-fileupload",
 	"description": "Nette UploadControl rozšířené o blueimp jQuery FileUpload.",
 	"homepage": "https://github.com/JZechy/jQuery-FileUpload",
 	"license": "MIT",
@@ -8,10 +8,6 @@
 			"name": "Jan 'Zechy' Zechovský",
 			"email": "email@zechy.cz",
 			"homepage": "http://zechy.cz"
-		},
-		{
-			"name": "Ing. Jaroslav Vaculik -IJVo",
-			"homepage": "https://ijvo.cz"
 		}
 	],
 	"require": {
